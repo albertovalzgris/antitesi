@@ -9,3 +9,4 @@
 + aggiornato todo.txt
 + definizione pagina di presentazione —> *cloud* di supporto
 + possibili volumetti extra (cose molto belle)
++ parlare con grafico  
