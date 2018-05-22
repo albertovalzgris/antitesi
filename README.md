@@ -1,3 +1,3 @@
-#readme
+# readme
 
-un bel progetto di 'c' e 'a'.
+un bel progetto di `c` e `a`.
